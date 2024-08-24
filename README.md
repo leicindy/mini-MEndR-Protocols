@@ -1,5 +1,3 @@
-READ ME
-
 We are so excited that you are interested in adopting the mini-MEndR/mini-IDLE culture systems! Below is a quick summary of published works and resources located in the Gilbert Lab Github that will ensure you reach expert level as efficiently as possible.
 
 Resources 
@@ -16,4 +14,4 @@ The MuSC seeding step of the mini-MEndR (regeneration)/mini-IDLE (quiescence) as
 Have fun! We can’t wait to see what you use these culture assays to discover!
 
 
-![image](https://github.com/user-attachments/assets/790a627f-a41f-4c77-9d12-c023eb653c61)
+
